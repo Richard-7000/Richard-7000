@@ -1,7 +1,6 @@
 ## Info
 
 - 🤏🏻 I have little knowledge.
-- 🔭 I’m currently working on Faraz projects.
 - 💬 Ask me about Information Security and Programming.
 
 ### Reach me
