@@ -1,7 +1,6 @@
 ## Info
-
-- 🤏🏻 I have little knowledge.
-- 💬 Ask me about Information Security and Programming.
+Nerd?!
+C0mput3r geek.
 
 ### Reach me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kernelPanic_ir)
